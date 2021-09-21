@@ -10,9 +10,9 @@ require(tidyverse)
 require(tigerstats)
 require(knitr)
 require(foreign)
-#GSS <-read.dta(file="GSS2018.dta")
+GSS <-read.dta(file="GSS2018.dta")
 #GSS <-read.dta(file="GSS1998.dta")
-#GSS <- droplevels(GSS)
+GSS <- droplevels(GSS)
 ```
 
 # Introduction
