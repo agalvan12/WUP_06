@@ -64,6 +64,8 @@ table2 <- xtabs(~race + cappun, data=GSS)
 rowPerc(table2)
 colPerc(table2)
 ```
+The numerical results reaffirm the percentages from the graphical results. This table states that 68% of Whites are in favor, 46% of Blacks are in favor and 55% of Other are in favor. While 32% of Whites, 54% of Blacks and 44% of Other oppose capital punishment. 
+
 
 ## Inferential Results
 
