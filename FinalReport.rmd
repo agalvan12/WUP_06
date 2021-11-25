@@ -152,3 +152,6 @@ With more data, everyone is different from everybody else. The fisherXY test was
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+With more data, everyone is different from everybody else. The fisherXY test was able to show us that the different test groups are different from each other.
+
